@@ -151,7 +151,7 @@ python main.py
 ![Interface principale](screenshots/main.png)
 ![Barre d'outils verticale](screenshots/barre_outils.png)
 
-![Panneau Labels avec compteurs](screenshots/panneau_labels.png)
+![Panneau Labels avec compteurs](screenshots/panneau_label.png)
 
 ![Assistant IA en action](assets/screenshots/AI.png)
 

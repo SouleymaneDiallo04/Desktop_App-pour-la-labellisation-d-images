@@ -152,7 +152,7 @@ python main.py
 
 ![Panneau Labels avec compteurs](screenshots/panneau_label.png)
 
-![Assistant IA en action](screenshots/AI.png)
+![Assistant IA en action](screenshots/IA.png)
 
 
 ---
@@ -194,7 +194,6 @@ python main.py
 
 **Souleymane Diallo** — Intelligence Artificielle et Technologies des Données (IATD-SI)  
 ENSAM Meknès — Université Moulay Ismaïl · Mars 2026  
-Encadrant : Pr. Brahim Bakkas
 
 ---
 
@@ -264,4 +263,3 @@ tkimage_studio/
 | ← → | Image précédente / suivante |
 | + / - | Zoom avant / arrière |
 | Ctrl+Q | Quitter |
->>>>>>> e4d32db08c4540c0a31ae538e5916b0a40a7699f

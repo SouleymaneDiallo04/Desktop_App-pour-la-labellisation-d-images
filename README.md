@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TkImage Studio — Outil de gestion, annotation et prétraitement d'images pour Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
@@ -153,7 +152,7 @@ python main.py
 
 ![Panneau Labels avec compteurs](screenshots/panneau_label.png)
 
-![Assistant IA en action](assets/screenshots/AI.png)
+![Assistant IA en action](screenshots/AI.png)
 
 
 ---
